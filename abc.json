@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sanghralaya",
+  "private_key_id": "a0ecc213efcc6eb70c14afab9b36e0daad2e5813",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCx3T4Ll4rE1fjs\n1zN4dWYCiW9k51c8ePZiPZpdwVVJWNmLOnZyGk5i3xBCygd5bc8uTpF6pY1Bc9Pv\nL9kzFWEGH9RYfEjCoGkwhia1IuRghn7bWQMqvvLzM3e2BXLOTBxa/m0Yn8BSBCby\nrjidmOcUzTFnLWQHRHWMC7dWxYBfrsohqNnpaHeUje1I7sPoYSgyI3ahvkpYGYs6\n7Dl+dAGyxS4u6AwBQ467fi0Mld3BgubGNEMhNCJT2WFTZyxb0UgXdNe9er+1Y8n+\nONYsAFtbXCOmgQx1UK7uzVGIw66SoJGUT9z9GEp4bFdsBUjCmRzggn+ln/0fzUjl\ndBrECTq/AgMBAAECggEAIlJtoyICmropl1ZtrbyFy06HCuMjb91tugZmL9pbYVR+\nYkINUjZmUuj1g9XlfFamyKpLo22n5O37gyfqE1P4TYy91rdg+QGoWr9AX+rURBYg\nC6bRGCIR0sFnQ94oScvhGuQG3F4TaCA5/dGFxk+Xo+l2s5DMQSTCRByMq/dfrtbC\nMg+WApxehl8rASH8FKWioB5f4aUbcWwQPUvRptRXgr7QrdlS5IiPC4bpaY77v/be\nbNeNHmLWqlaNB7+5NZJw+Dj/8Kkxk7jyHL/0JwnPHgiAorQ7Cdr1rmxpA5lolWSX\neHwMHUXMONputsNaIO544bFjAPP87WZq1IjFjllyMQKBgQD08xHUAmLtzMGiO4oc\nxd2qc87WcX/IlSRlCe8y4HKjnwjYOQXa3vL6a7veJ3RXLQN9YJ4PKTdbZ9TXTo/B\nURfXzuew9/iYFGa9PAKKbOTnxV0DIVsV8hGa8eljDBU4Dq/0kXSnYW9wt2WAZciz\nCUtoWHmZ5ZUt6d7GN13JXvTJTwKBgQC542cTn38NfsS0Y7f3vSIwWaxoj5um8mgQ\nZIulsR/v8dKNwZ3gu5LaP6BcwHacISmGIIyebTbNRkvJQuaPgNPiilIZnEgF3Zrd\nnpLJeXPjknEKKv1hpU4L/oxkn6HWgBxHmv2HbDuKMmnTXdiRTiBQifj+J/LNzlpH\nOmClw6I7kQKBgGSs4s74jCCg35UGU6WvzYOZRZHt5E9UvTip9J48keGeI8x642Up\n7UPvs6+DF9Ycsip943jnv9DZxCkaKQuTgPE6IRAjWxFmkTOFzqWGTC7Wd3wp4X4L\nmCDO/NWwyafYoYkrn36MFXmGZzl2nB652zxv4MrYCZBtZxqg9vMlDAcRAoGAdgZf\nrQLo/Z2OsWZbKU4KBh75q836qy5gSoA8dnCW8Zdd86mKX2VZYX9ih2GgLZOUtNe3\n0ONRF1bZyajTkSvf3IeshxxGUosYyDvlwUx++3BAm48eIEB/5HezljQQ4oum6QQM\nk05yI1XNAWollmS/ecOQt3aP4IJzqaP0N2uWdzECgYEAv//OoCqrDfZPIsgRnpNK\nH5yeLzo5+zWZotQHCQAguVp8ZH4ho8OIGmHxzQuhz8+PlqZi35wMW0OfaC0VPJCW\nqsqSFoae2WZVYBBkFnAAggqmKGSAw4pARYI1TQrObqGJvxCApdV3gMSeNt7uuy1j\nAlEptxye1QURjAdWWXYVpHg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "buster@sanghralaya.iam.gserviceaccount.com",
+  "client_id": "114240360057307153452",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/buster%40sanghralaya.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
